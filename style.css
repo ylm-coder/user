@@ -1,0 +1,57 @@
+
+body {
+    background-color: darkblue;
+
+
+}
+.a {
+
+    background-color: royalblue;
+    padding: 10px;
+    height: 400px;
+    width: auto;
+
+    margin: 10px;
+
+
+}
+.b{
+
+    background-color: blue;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+    float: left;
+    margin-right: 20px;
+}
+.c{
+    background-color: aliceblue;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.d {
+    background-color: yellowgreen;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+    float: left;
+    margin-right: 20px;
+}
+.f {
+
+
+
+    color: bisque;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+
+}
+header {
+    padding-left: 350px;
+}
